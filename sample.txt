@@ -1,7 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 First line added
 Second line added
 =======
 First filled added
 First line master
 >>>>>>> 38388881d8f25a0ff72895cd0400c629f38f334b
+=======
+ line added
+>>>>>>> master
