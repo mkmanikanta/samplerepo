@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-First filled added
-First line master
-=======
-First line added
-Second line added
->>>>>>> a6ba7a2e5c9f8856e79494b8a0767727b974f359
+ line added
